@@ -2,10 +2,10 @@
 /* Applique un fond clair à la page */
 body {
     background-color: #f4f4f9;
-    font-family: Arial, sans-serif;
-    margin: 0;
+    font-family: Arial, Arial, Helvetica, sans-serif;
+    margin: 15;
     padding: 0;
-    color: darkgrey;
+    color: black;
 }
 
 /* Style pour le titre principal */
@@ -15,4 +15,11 @@ h1 {
     font-size: 36px;
     margin-top: 50px;
     background-color: yellow;
+}
+
+/* Style pour le titre secondaire */
+h2 {
+    color: blue;
+    background-color: lightgoldenrodyellow;
+    margin: 20;
 }
