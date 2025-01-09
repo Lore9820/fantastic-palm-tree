@@ -19,6 +19,7 @@ h1 {
 
 /* Style pour le titre secondaire */
 h2 {
-    color: green;
+    color: blue;
     background-color: lightgoldenrodyellow;
+    margin: 20;
 }
